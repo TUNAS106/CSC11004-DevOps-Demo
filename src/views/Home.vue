@@ -1,7 +1,7 @@
 <template>
     <div id="align">
         <b-jumbotron id="fundo">
-            <h1 class="text-uppercase">to-do list test automation v2</h1>
+            <h1 class="text-uppercase">test automation deloy</h1>
             <p>made by <a href="https://elroydev.tech">elroydevops</a></p>
         </b-jumbotron>
     </div>
@@ -58,6 +58,7 @@ export default {
 }
 
 </style>
+
 
 
 
