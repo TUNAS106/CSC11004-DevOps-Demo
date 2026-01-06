@@ -2,7 +2,7 @@
     <div id="align">
         <b-jumbotron id="fundo">
             <h1 class="text-uppercase">test automation deloy</h1>
-            <p>made by <a href="https://elroydev.tech">elroydevops</a></p>
+            <p>made by <a href="https://elroydev.tech">mạng máy tính</a></p>
         </b-jumbotron>
     </div>
 </template>
@@ -58,6 +58,7 @@ export default {
 }
 
 </style>
+
 
 
 
