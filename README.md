@@ -1,4 +1,4 @@
-# Vue ToDo List
+# Vue ToDo Listt
 
 ## About
 Project of a CRUD ToDo list made in vue.js
@@ -17,3 +17,4 @@ npm run serve
 ```
 npm run build
 ```
+
